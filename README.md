@@ -68,11 +68,13 @@ There are some tools you should definitely install.
    cd ~/Documents/DP # cd into the folder
    ```
 
-11. Clone the two project page repos. Use SSH! (If you don't already use SSH, follow the steps [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) to generate keys, and then [here](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) to add your public key to your GitHub account.)
+11. Clone the repos you'll be working on. Use SSH! (If you don't already use SSH, follow the steps [here](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) to generate keys, and then [here](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/) to add your public key to your GitHub account.)
+
+If you're on the project pages team, you'll clone these repos:
 
    ```Shell
    git clone git@github.com:dailypenn/projects.thedp.com.git
    git clone git@github.com:dailypenn/projects.34st.com.git
    ```
 
-   This should be good for most people. If you think you'll be working on other projects, talk to the Director of Web Development, and they can get you set up with any other repos.
+ Talk to the Director of Web Development if you're not sure which repos to clone.
