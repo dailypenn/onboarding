@@ -12,7 +12,7 @@ There are a few things we need to do before you can get started.
 
    This is purely administrative, but is required before you can start doing, well, anything. Note that by signing this, you agree to relinquish ownership of all work done for the company (including code, graphics, etc.) to The Daily Pennsylvanian, Inc.
 
-2. Join our [slack team](https://thedpinc.slack.com/signup). You should be able to join with any <samp>\*@\*.upenn.edu</samp> email address.
+2. Join our [slack team](https://thedpinc.slack.com/signup). If you have a `@thedp.com` email, you can join right away. Otherwise, you'll need an invite. As the Director of Web Development for this.
    - You'll automatically be added to <samp>#announcements</samp> and <samp>#chat-general</samp>, but make sure to also join <samp>#dept-web</samp> and look through the other channels to see if you're interested in any of them!
 
 3. Join the [dailypenn Github organization](https://github.com/dailypenn) and get added to the developers team. You may have to bother the current Director of Web Development about this.
